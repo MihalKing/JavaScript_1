@@ -1,27 +1,3 @@
-// - Створити змінні. Присвоїти кожному з них значення: 'hello','owu','com', 'ua', 1, 10, -999, 123, 3.14, 2.7, 16, true, false.
-//     Вивести кожну змінну за допомогою: console.log , alert, document.write
-//
-// - Створити 3 змінних firstName, middleName, lastName, наповнити їх своїм ПІБ. З'єднати їх в одну змінну person (Не об'єкт, просто за допомоги конкатенації)
-//
-// - За допомогою оператора typeof визначити типи наступних змінних та вивести їх в консоль.
-//     let a = 100; let b = '100'; let c = true;
-//
-// - За допомогою 3х різних prompt() отримати 3 слова які являються вашими Імям, По-Батькові та роками. та вивести в консоль
-//
-
-// let a = 100;
-// console.log(a);
-// a = 100000;
-// console.log(a);
-//
-// let str1 = 'hello ';
-// let space = ' '
-// let str2 = "okten";
-// let words = (str1 + space + str2);
-// console.log(words);
-// console.log(str1);
-// console.log(!!str1);
-// console.log(!!0)
 
 let a1 = 'hello';
 let a2 = 'owu';
